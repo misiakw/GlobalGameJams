@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 1c088618ba419e943b0c58ca722baec6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7083545565698355939
+    second: Jester_0
+  - first:
+      213: -9120608786998171660
+    second: Jester_1
+  - first:
+      213: -5467687086850732672
+    second: Jester_2
+  - first:
+      213: -7472899020200278593
+    second: Jester_3
+  - first:
+      213: -6120273024128280562
+    second: Jester_4
+  - first:
+      213: -5746710652953394091
+    second: Jester_5
+  - first:
+      213: -6295756515906655054
+    second: Jester_6
+  - first:
+      213: 5410757924453139487
+    second: Jester_7
+  - first:
+      213: 4595039712221794921
+    second: Jester_8
+  - first:
+      213: -8580664520324568311
+    second: Jester_9
+  - first:
+      213: -7219090943626253011
+    second: Jester_10
+  - first:
+      213: -6922977637464337184
+    second: Jester_11
+  - first:
+      213: 1904808392565633390
+    second: Jester_12
+  - first:
+      213: 8311028994756967357
+    second: Jester_13
+  - first:
+      213: -3083648479474655653
+    second: Jester_14
+  - first:
+      213: -4669911647802928922
+    second: Jester_15
+  - first:
+      213: -827083192915870172
+    second: Jester_16
+  - first:
+      213: -2555692176965674474
+    second: Jester_17
+  - first:
+      213: -597958624475830438
+    second: Jester_18
+  - first:
+      213: 5576636127745765784
+    second: Jester_19
+  - first:
+      213: -5412992880307450127
+    second: Jester_20
+  - first:
+      213: -3633318237071837158
+    second: Jester_21
+  - first:
+      213: 4513234121842843260
+    second: Jester_22
+  - first:
+      213: 96283365784060834
+    second: Jester_23
+  - first:
+      213: 4899016792638339652
+    second: Jester_24
+  - first:
+      213: -7650177097083543147
+    second: Jester_25
+  - first:
+      213: 5269127336183854970
+    second: Jester_26
+  - first:
+      213: -5806300791711754873
+    second: Jester_27
+  - first:
+      213: 2123424246824454814
+    second: Jester_28
+  - first:
+      213: -5809921045460364105
+    second: Jester_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jester_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 7
+        width: 834
+        height: 955
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d814696d032bd90800000000000000
+      internalID: -7083545565698355939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_8
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 222
+        width: 480
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9621bcfc54cd4cf30800000000000000
+      internalID: 4595039712221794921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_16
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 648
+        width: 128
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ebd86d73c9584f0800000000000000
+      internalID: -827083192915870172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_20
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 658
+        width: 132
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe4e8597af21e4b0800000000000000
+      internalID: -5412992880307450127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_28
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 175
+        width: 205
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a4c632a1be77d10800000000000000
+      internalID: 2123424246824454814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_29
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 177
+        width: 204
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d44867930f5fa0800000000000000
+      internalID: -5809921045460364105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_1
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 482
+        width: 134
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a50a2f5e22a50043a9d7371fa059b5c
+      internalID: -418078827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_2
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 482
+        width: 127
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e69695ea5b3e446a5aec355d096ff5
+      internalID: -419915514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_3
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1
+        width: 202
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1336c72c6735b4c499b3285f0801db9e
+      internalID: 410576286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jester_4
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 203
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c476cffa614cba49b7f3488eb481b48
+      internalID: 378115292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42ef4e448dd582b45a97d51a88153afc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jester_1: -418078827
+      Jester_2: -419915514
+      Jester_3: 858962987
+      Jester_4: 410576286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

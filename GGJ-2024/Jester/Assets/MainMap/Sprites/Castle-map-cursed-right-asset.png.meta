@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 4914caf69de6f5643b7af14cd8aad7fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6867510915242154498
+    second: Castle-map-cursed-right-asset_0
+  - first:
+      213: -8427877512841378225
+    second: Castle-map-cursed-right-asset_1
+  - first:
+      213: 5152419596769771361
+    second: Castle-map-cursed-right-asset_2
+  - first:
+      213: 1492883555107180222
+    second: Castle-map-cursed-right-asset_3
+  - first:
+      213: 7381712740070801529
+    second: Castle-map-cursed-right-asset_4
+  - first:
+      213: -6692276035638629068
+    second: Castle-map-cursed-right-asset_5
+  - first:
+      213: 844393961751299946
+    second: Castle-map-cursed-right-asset_6
+  - first:
+      213: -5022369787169173052
+    second: Castle-map-cursed-right-asset_7
+  - first:
+      213: -8652102867122250053
+    second: Castle-map-cursed-right-asset_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_0
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1886
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5afdd4533b1b0a0800000000000000
+      internalID: -6867510915242154498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 455
+        width: 1168
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46469c0e0a2a0b80800000000000000
+      internalID: -8427877512841378225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_2
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1306
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f39371352118740800000000000000
+      internalID: 5152419596769771361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_3
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1368
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe8f290fa9c7b410800000000000000
+      internalID: 1492883555107180222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_4
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1302
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97045e980ac117660800000000000000
+      internalID: 7381712740070801529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_5
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 754
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d66ec17624023a0800000000000000
+      internalID: -6692276035638629068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_6
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 300
+        width: 413
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67cbac95d3e7bb00800000000000000
+      internalID: 844393961751299946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_7
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 492
+        width: 12
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19029c945fc4ab0800000000000000
+      internalID: -5022369787169173052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle-map-cursed-right-asset_8
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 90
+        width: 33
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe1a0d784e8de780800000000000000
+      internalID: -8652102867122250053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Castle-map-cursed-right-asset_0: -6867510915242154498
+      Castle-map-cursed-right-asset_1: -8427877512841378225
+      Castle-map-cursed-right-asset_2: 5152419596769771361
+      Castle-map-cursed-right-asset_3: 1492883555107180222
+      Castle-map-cursed-right-asset_4: 7381712740070801529
+      Castle-map-cursed-right-asset_5: -6692276035638629068
+      Castle-map-cursed-right-asset_6: 844393961751299946
+      Castle-map-cursed-right-asset_7: -5022369787169173052
+      Castle-map-cursed-right-asset_8: -8652102867122250053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
